@@ -7,7 +7,8 @@ a container `<div>` will show text. data passed By json within js file.
 * ###hierarchy.js:
 It's a exercise from React Official Document.
 
-
+* ###IOUser
+use process.stdin.on();process.stdout.write();
 
 ***
 *I use webpack-dev-server for testing and I miss some package info in package.jason.The hustle and bustle of my first try.*  
