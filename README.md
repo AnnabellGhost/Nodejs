@@ -13,7 +13,10 @@ console.log(result);`` as second solution
 
 * ###fileList.js
 Walk through given path,listing files and documents in certain format.
+` .isFile` ` .isDirectory`
+* ###simulateNpm.js
+Simple example to illustrate how npm analysis cmd 
 ***
-*server-end *  
+*server-end*  
 
 *With ES6*
