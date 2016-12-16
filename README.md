@@ -1,4 +1,6 @@
 # Nodejs
+* ###chat-example
+Build with Socket.io and Express. It's on Socket.io's website: <http://socket.io/demos/chat/>
 
 * ###IOUsernameAndPsw.js
 Process.stdin.on();process.stdout.write();Verifies username and password
@@ -13,10 +15,14 @@ console.log(result);`` as second solution
 
 * ###fileList.js
 Walk through given path,listing files and documents in certain format.
-` .isFile` ` .isDirectory`
+` .isFile` ` .isDirectory` 
+
 * ###simulateNpm.js
 Simple example to illustrate how npm analysis cmd 
+
+* ###console.js
+Nothing but ``process.stdout.write(`${message} world`);``
 ***
 *server-end*  
 
-*With ES6*
+
