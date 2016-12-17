@@ -21,7 +21,7 @@ Walk through given path,listing files and documents in certain format.
 Simple example to illustrate how npm analysis cmd 
 
 * ###console.js
-Nothing but ``process.stdout.write(`${message} world`);``
+Nothing but try interpolated string literals ``process.stdout.write(`${message} world`);``
 ***
 *server-end*  
 
